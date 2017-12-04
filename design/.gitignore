@@ -1,0 +1,11 @@
+.idea
+node_modules
+.sass-cache
+*.zip
+gulp_start.bat
+gulp_start.sh
+mix-manifest.json
+public/css
+public/js
+public/index.html
+public/**/*.html
